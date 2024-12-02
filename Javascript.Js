@@ -87,7 +87,6 @@ class Queue {
     }
 }
 
-// Example usage:
 const queue = new Queue();
 queue.enqueue("Knight");
 queue.enqueue("Mage");
